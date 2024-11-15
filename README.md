@@ -37,3 +37,13 @@ Extracts the license plate text using the trained Inception ResNet model.
 
 Output:
 Displays the extracted license plate number.
+
+Results:
+The system achieves high accuracy in recognizing license plates across various lighting and environmental conditions.
+
+Sample Output:
+(Include an actual output image here)
+Future Improvements
+Support for multiple languages and plate formats.
+Integration with real-time camera feeds.
+Enhanced speed using optimized models like YOLO for localization.
