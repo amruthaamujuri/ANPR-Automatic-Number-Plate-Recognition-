@@ -3,7 +3,7 @@ The Automatic Number Plate Recognition (ANPR) system is a deep learning-based pr
 Features:
 End-to-End Pipeline: From image preprocessing to plate recognition.
 Deep Learning Architecture: Uses the Inception ResNet model for robust recognition.
-Scalability: Can be extended to support real-time video streams.
+Scalability: This can be extended to support real-time video streams.
 Localization: Identifies the region of the license plate in an image.
 Recognition: Extracts text from the localized plate with high accuracy.
 
